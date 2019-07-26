@@ -34,7 +34,7 @@ O arduino foi programado para soar um alarme após 3 toques finalizando o jogo. 
 # 4- Por que fazer o labirinto?
 O labirinto elétrico por mais que não tenha nenhuma função social especifica é um brinquedo que cumpre uma das propostas iniciais do arduíno, que é a de mostrar para crianças a extenção que se cria  para diversas aréas utilizando-se da programação. Se você é um pai que tem alguma experiencia com programação, com certeza pode ser uma tarefa bem agradável para se fazer com o filho isto é, mostrar para ele como algo "chato" que é um monte de letras e números pode fazer algo divertido para se brincar. Para você que não tem experiencia alguma com programação você pode realizar este projeto apenas copiando a linha de código e adicionando ela ao arduíno. Se você é um curioso e entusiasta, você pode optar por fazer uma serie de mudanças na programação para por exemplo aumentar o número de toques. subistituir o alarme por um comando de voz, etc.
 
-# 7- Créditos
+# 5- Créditos
 Devo creditar primeiramente meu professor Epaminondas Lage, cujo propos este trabalho para ser feito.
 Créditos ao canal Manual do Mundo onde a ideia do projeto foi retirada do video: https://www.youtube.com/watch?v=Nahbwcav8bE&list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNp&t=0s
 
